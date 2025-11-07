@@ -133,39 +133,5 @@ lib/
     └── reports_page.dart
 ```
 
----
 
-## 🚀 Roadmap
 
-- [ ] Email notifications
-- [ ] PDF certificates
-- [ ] Mobile app version
-- [ ] Advanced analytics with charts
-- [ ] Dark mode
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/NewFeature`)
-3. Commit changes (`git commit -m 'Add NewFeature'`)
-4. Push to branch (`git push origin feature/NewFeature`)
-5. Open Pull Request
-
----
-
-## 📝 License
-
-MIT License - See [LICENSE](LICENSE) file
-
----
-
-## 📞 Support
-
-Email: your-email@example.com  
-Issues: [GitHub Issues](https://github.com/yourusername/rewards-recognition-app/issues)
-
----
-
-**Made with ❤️ using Flutter**
